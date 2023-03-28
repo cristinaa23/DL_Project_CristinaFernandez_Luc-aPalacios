@@ -1,0 +1,150 @@
+001	T1	M	darkness is light's elder brother.
+002	T1	M	death is the brother of sleep.
+003	T1	M	filth is the mother of stench.
+004	T1	M	greed is the strongest evil force at work in the world today.
+005	T1	M	lawyers are real sharks.
+006	T1	M	math 250 was a killer course.
+007	T1	M	money is the root of all evil.
+008	T1	M	smog pollution is an environmental malaise.
+009	T1	M	spies are the eyes and ears of a society.
+010	T1	M	the clouds were a glimmer of hope that rain might come.
+011	T1	M	the conference room is a real snake pit today.
+012	T1	M	the job is a mouth-watering opportunity.
+013	T1	M	the mind is a body.
+014	T1	M	the mind is a builder.
+015	T1	M	the mind is a fighter.
+016	T1	M	the mind is a landmark.
+017	T1	M	the mind is a machine.
+018	T1	M	the mind is a traveler.
+019	T1	M	the mind is pursuer.
+020	T1	M	the mind is an eye.
+021	T1	M	the past is a captor.
+022	T1	M	the past is a place of confinement.
+023	T1	M	the person leading a life is a traveler.
+024	T1	M	the so-called cure is no magic bullet.
+025	T1	M	the theories are distant cousins.
+026	T1	M	the theory was a natural outgrowth of their work.
+027	T1	M	the visual field is a container.
+028	T1	M	the wages of sin is death.
+029	T1	M	this belief is an offshoot of my faith.
+030	T1	M	anger is heat.
+031	T1	M	young people are the backbone of society.
+032	T1	M	her accident was an enormous setback to her career.
+033	T1	M	evidence is a guide in the search.
+034	T1	M	evolution is the leading biological theory.
+035	T1	M	public school segregation was an obstacle in attaining civil rights.
+036	T1	M	external events that affect action are forces that affect motion.
+037	T1	M	the baby is a new arrival.
+038	T1	M	the immune system is a defense.
+039	T1	M	the progress of external events is forward motion.
+040	T1	M	the visual field is a bounded region.
+041	T2	M	don't pour your money down the drain.
+042	T2	M	he drank himself out of the promotion.
+043	T2	M	he rode to success on her coattails.
+044	T2	M	he touched her with the expensive gift.
+045	T2	M	he was resting lightly on her mind.
+046	T2	M	he's a good lecturer; i just drink in the information.
+047	T2	M	his criticism really stuck in my craw.
+048	T2	M	i got eaten alive in that game.
+049	T2	M	i knocked down her arguments.
+050	T2	M	i struck out last night.
+051	T2	M	sunlight poured into the room.
+052	T2	M	she drank in his love.
+053	T2	M	she drank in their praise.
+054	T2	M	the comedian knocked them over.
+055	T2	M	the smell of the cookies dragged me against my will to the cookie jar.
+056	T2	M	the theory filled in gaps left in earlier accounts.
+057	T2	M	they ate the lesson up.
+058	T2	M	this theory is withering on the vine.
+059	T2	M	he attacked my position on abortion.
+060	T2	M	he was attacked by an unknown virus.
+061	T2	M	her admission killed her in the election.
+062	T2	M	i was filled with rage.
+063	T2	M	it rained on my parade.
+064	T2	M	my field of vision was entirely filled by the huge crowd.
+065	T2	M	laughter filled the room.
+066	T2	M	one piece was still missing from the picture.
+067	T2	M	thursday passed without incident.
+068	T2	M	this is a flourishing belief in this culture.
+069	T2	M	she slowly ate her way to obesity.
+070	T2	M	looking at thing on purpose is touching it with eyes or glance.
+071	T2	M	the force of the blow knocked me over.
+072	T2	M	this book was filled with meaning.
+073	T2	M	we've been playing chess for years and he's finally pulling ahead of me.
+074	T2	M	when the computer ate her work she found herself back at the beginning of the writing process again.
+075	T2	M	i grasped the idea.
+076	T1	N	his beliefs are without notion.
+077	T1	N	that boy is the brother of my son.
+078	T1	N	that woman is the mother of my cousin.
+079	T1	N	gravity is the strongest force at work in the world.
+080	T1	N	lawyers are real experts.
+081	T1	N	liquorice is the root of a plant.
+082	T1	N	measles is a malaise.
+083	T1	N	stomach is an organ of the human body.
+084	T1	N	the roof is over my head.
+085	T1	N	that bicycle is without wheels.
+086	T1	N	that book is out of my reach.
+087	T1	N	the conference room is a place.
+088	T1	N	theft is a crime.
+089	T1	N	the man is a builder.
+090	T1	N	the woman is a fighter.
+091	T1	N	the skyscraper is landmark.
+092	T1	N	car is a machine.
+093	T1	N	the boy is a traveler.
+094	T1	N	the glass is a container.
+095	T1	N	lion is an animal.
+096	T1	N	microscope is a tool.
+097	T1	N	the knife is a weapon.
+098	T1	N	the blender is a household appliance.
+099	T1	N	the guitar is an instrument.
+100	T1	N	the teacher is a person.
+101	T1	N	the airplane is a vehicle.
+102	T1	N	the table is forniture.
+103	T1	N	the ball is a toy.
+104	T1	N	basketball is a sport.
+105	T1	N	pasta is a food.
+106	T1	N	iron is a metal.
+107	T1	N	the tree is a plant.
+108	T1	N	carrot is a vegetable.
+109	T1	N	fork is a utensil.
+110	T1	N	water is a liquid.
+111	T1	N	oxygen is a gas.
+112	T1	N	forklift is a truck.
+113	T1	N	apple is a fruit.
+114	T1	N	sandal is a footwear.
+115	T1	N	keyboard is a device.
+116	T2	N	don't pour your water down the drain.
+117	T2	N	he rode to the city on her coattails.
+118	T2	N	he touched her with his hands.
+119	T2	N	he's a good bartender; i just drink the wine.
+120	T2	N	his food really stuck in my craw.
+121	T2	N	it got eaten alive in that dinner.
+122	T2	N	i knocked down her stuff.
+123	T2	N	the sponge absorbed all the water.
+124	T2	N	water poured into the glass.
+125	T2	N	she drank wine.
+126	T2	N	she drank tea.
+127	T2	N	the man dragged me in his room.
+128	T2	N	the refrigerator is used to cool the pastry.
+129	T2	N	the boy was passing the ball.
+130	T2	N	the girl was riding home.
+131	T2	N	the hunter was killing birds.
+132	T2	N	the mother was playing the game.
+133	T2	N	the artist was playing the guitar.
+134	T2	N	the allied forces assaulted the german army.
+135	T2	N	the us army attacked the enemies.
+136	T2	N	her friend danced all night long.
+137	T2	N	her cousin loves to destroy sand castles.
+138	T2	N	the fairy touched the unicorn gently.
+139	T2	N	four wheels drag my car.
+140	T2	N	the player was drinking a beer.
+141	T2	N	her father was eating pizza.
+142	T2	N	warm water evaporated in few minutes.
+143	T2	N	the professor examined ten students.
+144	T2	N	the girl grabbed her boyfriend by the shirt collar.
+145	T2	N	the worker grasps his tools.
+146	T2	N	the neighbour killed the thieves.
+147	T2	N	their parents will lend them the car.
+148	T2	N	the professors played football with their friends.
+149	T2	N	the girl was sleeping in the morning. 
+150	T2	N	the knight rode the wild horse.
